@@ -7,12 +7,11 @@ import { GlobalStyle } from 'components/GlobalStyle';
 const theme = {
   colors: {
     black: '#0f0f0f',
-    white: '#fafafa',
     blue: '#6495ed',
-    green: '#90ee90',
+    green: '#ceffc9',
     statgreen: '#00ff00',
     red: '#ff6347',
-    grey: '#dcdcdc',
+    grey: '#ececec',
     darkgrey: '#808080',
   },
 };

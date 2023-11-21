@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const ProfileWrapper = styled.div`
 margin: 0 auto;
+margin-top: 24px;
 padding 16px 0 8px 0;
 width: 300px;
 box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
