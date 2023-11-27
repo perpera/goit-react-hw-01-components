@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/perpera/goit-react-hw-01-components/static/css/main.cd2e038f.css",
-    "main.js": "/perpera/goit-react-hw-01-components/static/js/main.c77661d3.js",
-    "index.html": "/perpera/goit-react-hw-01-components/index.html",
-    "main.cd2e038f.css.map": "/perpera/goit-react-hw-01-components/static/css/main.cd2e038f.css.map",
-    "main.c77661d3.js.map": "/perpera/goit-react-hw-01-components/static/js/main.c77661d3.js.map"
+    "main.css": "/perpera/goit-react-hw-01-components.git/static/css/main.cd2e038f.css",
+    "main.js": "/perpera/goit-react-hw-01-components.git/static/js/main.80aa4622.js",
+    "index.html": "/perpera/goit-react-hw-01-components.git/index.html",
+    "main.cd2e038f.css.map": "/perpera/goit-react-hw-01-components.git/static/css/main.cd2e038f.css.map",
+    "main.80aa4622.js.map": "/perpera/goit-react-hw-01-components.git/static/js/main.80aa4622.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.c77661d3.js"
+    "static/js/main.80aa4622.js"
   ]
 }
